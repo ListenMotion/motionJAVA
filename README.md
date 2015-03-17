@@ -1,2 +1,2 @@
 # motionJAVA
-An implementation of SoundWave paper in javascript
+An implementation of SoundWave paper in java
